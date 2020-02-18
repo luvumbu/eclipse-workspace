@@ -1,0 +1,23 @@
+package exercice1;
+
+import java.util.Scanner;
+
+public class Exercice2 {
+
+
+public void moi() 
+{
+	System.out.println("Ecrire un algorithme qui demande à l’utilisateur un nombre compris entre 1 et 3 jusqu’à ce que la réponse convienne.");
+	
+	Scanner source = new Scanner(System.in);
+	int val = source.nextInt() ; 	
+	while (val==5)
+	{
+	 System.out.println("Entrer un nombre ici");
+	    val = source.nextInt() ;   
+	}
+	System.out.println("Fin du programme");
+	
+ 
+}
+}

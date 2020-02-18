@@ -1,0 +1,30 @@
+package algorithmes;
+
+import java.util.Scanner;
+
+import exercice1.Exercice1;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		System.out.println("Transformation kilometres en milles");
+		
+		Scanner source = new Scanner(System.in) ; 
+		int val = source.nextInt() ;
+		System.out.println(val);
+		
+		double fr = 0.621371;
+		double somme = val*fr;
+		System.out.println(somme);
+		
+		
+
+
+ 
+ 
+		 
+ 
+	}
+
+}

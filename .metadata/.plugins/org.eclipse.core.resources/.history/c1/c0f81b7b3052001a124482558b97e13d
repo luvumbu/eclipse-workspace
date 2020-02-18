@@ -1,0 +1,12 @@
+package exercice1;
+
+import java.util.Scanner;
+
+public class Exercice1 {
+
+
+public void moi() 
+{
+	System.out.println("Veuillez saisir un nombre :");
+
+}

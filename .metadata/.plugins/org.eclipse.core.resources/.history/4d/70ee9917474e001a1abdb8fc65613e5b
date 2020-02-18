@@ -1,0 +1,6 @@
+package exercice1;
+
+public class Exercice1 {
+
+	System.out.println("Veuillez saisir un nombre :");
+}

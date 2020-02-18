@@ -1,0 +1,33 @@
+package algorithmes;
+
+import java.util.Scanner;
+
+import exercice1.Exercice1;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		System.out.println("Déclarations des nombres");
+		
+Scanner source  = new Scanner(System.in);
+
+String valeur1 = source.nextLine();
+int valeur1x = Integer.parseInt(valeur1);
+while (valeur1x >3)
+{
+ 
+  source  = new Scanner(System.in);
+
+  valeur1 = source.nextLine();
+  valeur1x = Integer.parseInt(valeur1);
+System.out.println(valeur1);
+
+}
+
+
+		 
+ 
+	}
+
+}

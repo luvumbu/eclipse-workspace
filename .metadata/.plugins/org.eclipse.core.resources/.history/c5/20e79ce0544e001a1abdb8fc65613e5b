@@ -1,0 +1,22 @@
+package exercice1;
+
+import java.util.Scanner;
+
+public class Exercice2 {
+
+
+public void moi() 
+{
+	System.out.println("Veuillez saisir un nombre :");
+	System.out.println("Transformation kilometres en milles");
+	
+	Scanner source = new Scanner(System.in) ; 
+	int val = source.nextInt() ;
+	System.out.println(val);
+	
+	double fr = 0.621371;
+	double somme = val*fr;
+	System.out.println(somme);
+	
+}
+}

@@ -1,0 +1,43 @@
+package exercice1;
+
+import java.util.Scanner;
+
+public class Exercice5a {
+	public void info() 
+	{
+		System.out.println("Ecrire un algorithme qui demande à l’utilisateur "
+				+ "un nombre compris entre 1 et 3 jusqu’à ce que"
+				+ " la réponse convienne.");
+		
+		Scanner sc = new Scanner(System.in) ; 
+		System.out.println("Entrer un nombre");
+		String str = sc.nextLine();		 
+		System.out.println("le nombre entre est de "+str);
+		
+		 String mon = "11" ; 
+		 
+		
+		
+		
+		
+		
+		
+		
+		
+		try 
+		{
+			 int nombre = Integer.parseInt(mon) ; 
+		 
+			System.out.println("ce bon");
+		}
+		catch(Exception e)
+		{
+			System.out.println("ce pas bon");
+		}
+		 
+		 
+	}
+	
+	
+
+}

@@ -1,0 +1,23 @@
+package algorithmes;
+
+import java.util.Scanner;
+
+import exercice1.Exercice1;
+import exercice1.Exercice2;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+
+		
+		
+		
+		
+		String taString = "ok";
+ 
+
+		  System.out.println(Character.digit('A', 10));
+	}
+
+}

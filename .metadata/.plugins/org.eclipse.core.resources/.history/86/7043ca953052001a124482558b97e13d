@@ -1,0 +1,14 @@
+package exercice1;
+
+import java.util.Scanner;
+
+public class Exercice1 {
+
+	
+	
+	public void monombre () 
+	{
+		System.out.println("mon nombre");
+	}
+
+}

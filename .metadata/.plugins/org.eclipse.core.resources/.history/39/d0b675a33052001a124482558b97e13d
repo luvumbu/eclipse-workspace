@@ -1,0 +1,26 @@
+package algorithmes;
+
+import java.util.Scanner;
+
+import exercice1.Exercice1;
+ 
+
+public class Main {
+
+	public static void main(String[] args) {
+
+
+		
+		
+		
+		
+	Exercice1 exo = new Exercice1() ; 
+ 
+
+		 
+		  
+		  
+		  
+	}
+
+}

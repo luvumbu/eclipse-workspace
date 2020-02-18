@@ -1,0 +1,10 @@
+package exercice1;
+
+public class Exercice1 {
+
+
+public void moi() 
+{
+	System.out.println("Veuillez saisir un nombre :");
+}
+}

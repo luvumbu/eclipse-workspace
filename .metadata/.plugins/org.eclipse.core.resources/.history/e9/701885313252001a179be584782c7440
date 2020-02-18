@@ -1,0 +1,29 @@
+package exercice1;
+
+import java.util.Scanner;
+
+public class Exercice1 {
+
+	
+	
+	public void infoexo () 
+	{
+		System.out.println("Exercice Algorithme : les Boucles");
+		System.out.println("Ecrire un algorithme qui demande successivement 20 nombres à l’utilisateur"
+				+ ", et qui lui dise ensuite quel était le plus "
+				+ "grand parmi ces 20 nombres :");
+		
+		char reponse = 'y';
+		
+		
+		Scanner sc = new Scanner(System.in) ; 
+		
+		while (reponse == 'O')
+		{
+ System.out.println("Entrer un nombre ");
+		  reponse = sc.nextLine().charAt(0);
+		}
+		sc.close();
+	}
+
+}

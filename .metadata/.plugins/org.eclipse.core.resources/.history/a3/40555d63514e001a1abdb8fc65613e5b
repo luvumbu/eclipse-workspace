@@ -1,0 +1,18 @@
+package algorithmes;
+
+import java.util.Scanner;
+
+import exercice1.Exercice1;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		System.out.println("Déclarations des nombres");
+		
+		String str = "1234";
+		  str = Integer.parseInt(str);
+ 
+	}
+
+}

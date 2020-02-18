@@ -1,0 +1,22 @@
+package algorithmes;
+
+import java.util.Scanner;
+
+import exercice1.Exercice1;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		System.out.println("Déclarations des nombres");
+		
+Scanner source  = new Scanner(System.in);
+System.out.println("Entrer un nombre ici");
+String  un = source.nextLine();
+
+ 
+		 
+ 
+	}
+
+}

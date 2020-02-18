@@ -1,0 +1,16 @@
+package exercice1;
+
+import java.util.Scanner;
+
+public class Exercice1 {
+
+	
+	
+	public void infoexo () 
+	{
+		System.out.println("Exercice Algorithme : les Boucles");
+	 
+ 
+	}
+
+}

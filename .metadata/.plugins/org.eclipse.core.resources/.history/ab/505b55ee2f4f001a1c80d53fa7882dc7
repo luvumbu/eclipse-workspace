@@ -1,0 +1,24 @@
+package algorithmes;
+
+import java.util.Scanner;
+
+import exercice1.Exercice1;
+import exercice1.Exercice2;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+
+ 
+Scanner login = new Scanner(System.in);
+String ok = login.nextLine() ;
+System.out.println(ok);
+login.close() ;
+ 
+ 
+		 
+ 
+	}
+
+}

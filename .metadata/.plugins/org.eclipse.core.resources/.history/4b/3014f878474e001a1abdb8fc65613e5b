@@ -1,0 +1,14 @@
+package algorithmes;
+
+import exercice1.Exercice1;
+
+public class Main {
+
+	public static void main(String[] args) {
+		System.out.println("Bonjour");
+		Exercice1 ok = new Exercice1() ; 
+		ok.moi();
+
+	}
+
+}

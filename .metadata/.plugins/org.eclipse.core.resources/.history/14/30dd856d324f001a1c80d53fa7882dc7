@@ -1,0 +1,23 @@
+package algorithmes;
+
+import java.util.Scanner;
+
+import exercice1.Exercice1;
+import exercice1.Exercice2;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+
+ 
+String nombre = "2e2" ; 
+
+int transfo = Integer.parseInt(nombre);
+System.out.println(transfo+transfo);
+ 
+		 
+ 
+	}
+
+}

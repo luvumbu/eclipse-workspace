@@ -1,0 +1,21 @@
+package algorithmes;
+
+import java.util.Scanner;
+
+import exercice1.Exercice1;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		System.out.println("Déclarations des nombres");
+		
+String nombreString = "1211" ; 
+int nouvo = Integer.parseInt(nombreString) ; 
+int somme = nouvo + nouvo ; 
+System.out.println(somme);
+		 
+ 
+	}
+
+}
